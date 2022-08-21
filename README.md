@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blackalpine
+- 👋 Hi, I’m @blackalpine / Julius Wilhelm
 - 👀 I’m interested in (electrical) mobility and reneable energy. 
 - 🌱 I’m currently learning phython and java.
 - 💞️ I’m looking to collaborate on projects and startups.
